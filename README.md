@@ -1,2 +1,9 @@
 # KtorFitEjemplos
-Ejemplos para mostrar funcionalidades básicas KtorFit + Cache4k y base de datos MongoDB.
+
+- [KtorFit_KMongo_PokeAPI](KtorFit_KMongo_PokeAPI)
+
+API usada: https://pokeapi.co/
+
+- [KtorFit_KMongo_SWAPI](KtorFit_KMongo_SWAPI)
+
+API usada: https://swapi.dev/api/
